@@ -17,7 +17,7 @@ class Product extends Component
                     <div className="bottom-wrap">
                         <a href="#" className="btn btn-sm btn-primary float-right">Add to cart</a>
                         <div className="price-wrap h5">
-                            <span className="price-new">$1280</span>
+                            <span className="price-new">100 Kn</span>
                         </div>
                     </div>
                 </figure>

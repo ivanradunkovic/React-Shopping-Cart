@@ -16,11 +16,9 @@ class Cart extends Component
                                             <div className="col-xs-6">
                                                 <h5><span className="glyphicon glyphicon-shopping-cart"></span> My Shopping Cart</h5>
                                             </div>
- 
                                         </div>
                                     </div>
                                 </div>
- 
                                 <div className="panel-body">
                                        <Item />
                                        <Item />
@@ -30,10 +28,8 @@ class Cart extends Component
                                       <div className="col-xs-11">
                                         <h4 className="text-right">Total <strong>$5400.8</strong></h4>
                                       </div>
- 
                                    </div>
                                  </div>
- 
                             </div>
                         </div>
                     </div>

@@ -20,11 +20,9 @@ class Item extends Component {
                       <div className="col-xs-4">
                           <input type="number" className="form-control input-sm" />
                       </div>
- 
                       <div className="col-xs-2">
                           <button type="submit" className="btn btn-info">Update</button>
                       </div>
- 
                       <div className="col-xs-2">
                           <button type="button" className="btn btn-link btn-xs">
                               <span className="glyphicon glyphicon-trash"> </span>
