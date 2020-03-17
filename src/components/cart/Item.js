@@ -7,7 +7,7 @@ class Item extends Component {
       return (
  
           <div className="row">
-              <div className="col-xs-2"><img className="img-responsive" src="http://placehold.it/300x200" />
+              <div className="col-xs-2"><img alt="desc" className="img-responsive" src="http://placehold.it/300x200" />
               </div>
               <div className="col-xs-4">
                   <h4 className="product-name"><strong>Product title</strong></h4>

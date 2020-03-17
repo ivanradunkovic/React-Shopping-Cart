@@ -26,7 +26,7 @@ class Cart extends Component
                                 <div className="panel-footer">
                                    <div className="row text-center">
                                       <div className="col-xs-11">
-                                        <h4 className="text-right">Total <strong>$5400.8</strong></h4>
+                                        <h4 className="text-right">Total <strong>Kn</strong></h4>
                                       </div>
                                    </div>
                                  </div>

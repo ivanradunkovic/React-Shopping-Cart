@@ -1,4 +1,3 @@
-
 const initialState = {
   products: [
       {id: 1, title: 'iPhone 11 Pro', description: 'iPhone 11 Pro 64GB Midnight Green, Pro camera system, 4K video, Night mode.', price: '9659', image: 'https://istyle.hr/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/p/r/product-iphone-11-pro-green.png', amount: 1},
